@@ -1,0 +1,10 @@
+h1{
+    color: rgb(126, 0, 253);
+}
+p{
+    color:rgb(255, 0, 0);
+}
+div{ 
+    /*non flexa*/
+    flex-direction: row;
+}
