@@ -4,7 +4,18 @@ h1{
 p{
     color:rgb(255, 0, 0);
 }
-div{ 
-    /*non flexa*/
+header{
+    color: aliceblue;
+    background-color: black;
+ }
+.presentazione{ 
+    border: 3px solid;
+    display: flex;
     flex-direction: row;
+}
+
+.lista{ 
+    border: 3px solid;
+    display: flex;
+    flex-direction: column;
 }
