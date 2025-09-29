@@ -25,7 +25,7 @@ header{
     display: flex;
     flex-direction: column;
 }
-table{ 
-    table-layout:inherit;
-    
+table, th, td{ 
+    border: 1px solid black;
+
 }   
