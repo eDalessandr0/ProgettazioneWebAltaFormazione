@@ -19,3 +19,13 @@ header{
     display: flex;
     flex-direction: column;
 }
+
+.tabella{ 
+    border: 3px solid;
+    display: flex;
+    flex-direction: column;
+}
+table{ 
+    table-layout:inherit;
+    
+}   
