@@ -28,4 +28,13 @@ header{
 table, th, td{ 
     border: 1px solid black;
 
-}   
+}
+
+th{ 
+background-color: cadetblue;
+    color: aliceblue;
+}
+tr{ 
+    background-color:#bb7be0;
+    color: aliceblue;
+}
