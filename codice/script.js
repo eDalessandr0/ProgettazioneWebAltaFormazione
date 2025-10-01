@@ -1,4 +1,10 @@
 /*script js scrivere app sulla repo appunti pls*/
+/*Da mettere negli appunti 
+Gestione delle memorie in js 
+temp = 10;
+
+
+*/
 /*Dichiarazione di variabili*/
 var x = "y";
 
@@ -9,9 +15,8 @@ La nomenclatura delle constanti è Snake_Case  (Possibilmente in maiuscolo)
 */
 const COSTANTE_DI_DARIO = 7;
 
-
 function clickFunction(){
-    console.log("hai cliccato un bottone");
+    alert("LE TUE PALLE STANNO PER ESPLODERE");
     console.log("Costante di dario:" + COSTANTE_DI_DARIO);
 
 }
